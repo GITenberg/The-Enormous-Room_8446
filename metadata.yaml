@@ -1,0 +1,31 @@
+_repo: The-Enormous-Room_8446
+creator:
+  author:
+    agent_name: Cummings, E. E. (Edward Estlin)
+    alias: Cummings, Edward Estlin
+    birthdate: 1894
+    deathdate: 1962
+    gutenberg_agent_id: '2755'
+    url: http://www.gutenberg.org/2009/agents/2755
+    wikipedia: http://en.wikipedia.org/wiki/E._E._Cummings
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Concentration camps -- Fiction'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'Concentration camp inmates -- Fiction'
+- !lcsh 'Ambulance drivers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'World War, 1914-1918 -- France -- Fiction'
+title: The Enormous Room
+url: http://www.gutenberg.org/ebooks/8446
