@@ -1,4 +1,8 @@
 _repo: The-Enormous-Room_8446
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cummings, E. E. (Edward Estlin)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2755
     wikipedia: http://en.wikipedia.org/wiki/E._E._Cummings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8446#The-Enormous-Room
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
